@@ -1,2 +1,2 @@
-# Jordan Hudgens React Portfolio Application
+# Jacob Brenneman React Portfolio Application
 
